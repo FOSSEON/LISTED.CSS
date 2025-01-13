@@ -1,6 +1,10 @@
 # LISTED.CSS
 The CSS layout config of the FOSSEON blog hosted on Listed.
 
+<p align="center">
+  <img src="https://github.com/FOSSEON/LISTED.CSS/blob/main/LISTED-SCREENSHOT.png" />
+</p>
+
 ```
 ---
 metatype: css
