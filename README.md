@@ -1,5 +1,5 @@
 # LISTED.CSS
-The CSS layout config of the FOSSEON blog hosted on Listed.
+The CSS layout config of the [FOSSEON blog](https://listed.to/@FOSSEON) hosted on [Listed](https://listed.to).
 
 <p align="center">
   <img src="https://github.com/FOSSEON/LISTED.CSS/blob/main/LISTED-SCREENSHOT.png" />
