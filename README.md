@@ -2,7 +2,7 @@
   <img src="https://github.com/FOSSEON/LISTED.CSS/blob/main/LISTED-SCREENSHOT.png" />
 </p>
 
-The CSS layout config of the [FOSSEON blog](https://listed.to/@FOSSEON) hosted on [Listed](https://listed.to).
+The CSS layout config of the [FOSSEON blog](https://listed.to/@FOSSEON) hosted on [Listed](https://listed.to):
 
 ```
 ---
