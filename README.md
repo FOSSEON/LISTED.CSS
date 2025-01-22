@@ -2,7 +2,9 @@
   <img src="https://github.com/FOSSEON/LISTED.CSS/blob/main/LISTED-SCREENSHOT.png" />
 </p>
 
-The CSS layout config of the [FOSSEON blog](https://listed.to/@FOSSEON) hosted on [Listed](https://listed.to):
+<div align="center">
+  
+The CSS layout config of the [FOSSEON blog](https://listed.to/@FOSSEON) hosted on [Listed](https://listed.to):</div>
 
 ```
 ---
@@ -41,5 +43,6 @@ metatype: css
   }
 }
 ```
-
-Documentation on [how to stylize your Listed blog](https://standardnotes.com/help/66/how-do-i-change-the-colors-fonts-and-general-layout-of-my-listed-blog), by [Standard Notes](https://standardnotes.com/).
+<div align="center">
+  
+Documentation on [how to stylize your Listed blog](https://standardnotes.com/help/66/how-do-i-change-the-colors-fonts-and-general-layout-of-my-listed-blog), by [Standard Notes](https://standardnotes.com/).</div>
