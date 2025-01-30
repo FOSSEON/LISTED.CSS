@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/FOSSEON/LISTED.CSS/blob/main/LISTED-SCREENSHOT.png" />
+  <img src="https://github.com/FOSSEON/LISTED.CSS/blob/main/LISTED-SCREENSHOT.png"/>
 </p>
 
 <div align="center">
