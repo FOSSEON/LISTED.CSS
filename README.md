@@ -15,17 +15,17 @@ metatype: css
   :root {
     --border: 1px solid hsla(0, 0%, 100%, 0.16);
     --color-default: #000000;
-    --color-primary: #9F1AFB;
+    --color-primary: #8000FF;
     --color-primary-opacity-8: rgba(147, 192, 255, 0.08);
     --color-neutral: #000000;
-    --color-neutral-darker: #9F1AFB;
+    --color-neutral-darker: #8000FF;
     --color-contrast: #FFFFFF;
     --color-contrast-opacity-8: hsla(0, 0%, 100%, 0.08);
     --color-contrast-opacity-16: hsla(0, 0%, 100%, 0.16);
     --color-contrast-opacity-36: hsla(0, 0%, 100%, 0.36);
     --color-contrast-opacity-86: hsla(0, 0%, 100%, 0.86);
-    --post-code-background-color: #9F1AFB;
-    --post-code-border-color: #9F1AFB;
+    --post-code-background-color: #8000FF;
+    --post-code-border-color: #8000FF;
   }
 }
 
